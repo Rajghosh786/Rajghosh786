@@ -1,5 +1,6 @@
 <!-- ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif) -->
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE2c3VxNG43dm52aHRwcHUycGhkZWJ5aHJwZXBqa3Rqb3M0MmU1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+<!-- ![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE2c3VxNG43dm52aHRwcHUycGhkZWJ5aHJwZXBqa3Rqb3M0MmU1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif) -->
+![MasterHead](./assets/vibecoding450x800.gif)
 
 <h1 align="center">👋 Hey there, fellow code adventurer! 🚀 I'm Raj Ghosh 😎</h1>
 
@@ -22,14 +23,14 @@ Where ideas meet execution — one commit at a time.
 </p>
 
 ---
-
+<div style="font-size:18px">
 **💫 About Me:**
 
 - 🌐 Cruising the MERN highway with Mongo tunes, Express lanes, and React vibes! 🚗💨
 - 🛠️ Turning coffee into full-stack features—Node powers, activate! ☕⚙️
 - 📬 Ping me anytime at **rajghosh786@gmail.com**— let's build something awesome! 📩
 - 🤯 Fun fact: I debug better with snacks. 🍕💡
-
+</div>
 ---
 
 ## 🌐 Connect with me:
@@ -45,17 +46,17 @@ Where ideas meet execution — one commit at a time.
         <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" height="30" width="40" />
       </a>
 </p> -->
-<p align="center" style="font-size: 30px;">
+<p align="center" style="font-size: 60px;">
 
-  <a href="https://www.linkedin.com/in/raj-ghosh-/" target="_blank" title="LinkedIn" style="text-decoration: none; margin: 0 15px;">
+  <a href="https://www.linkedin.com/in/raj-ghosh-/" target="_blank" title="LinkedIn" style="text-decoration: none; margin: 0 30px;">
     🔗
   </a>
 
-  <a href="https://raj-ghosh-porfolio.netlify.app/" target="_blank" title="Portfolio" style="text-decoration: none; margin: 0 15px;">
+  <a href="https://raj-ghosh-porfolio.netlify.app/" target="_blank" title="Portfolio" style="text-decoration: none; margin: 0 30px;">
     💼
   </a>
 
-  <a href="mailto:rajghosh786@gmail.com" target="_blank" title="Email" style="text-decoration: none; margin: 0 15px;">
+  <a href="mailto:rajghosh786@gmail.com" target="_blank" title="Email" style="text-decoration: none; margin: 0 30px;">
     📧
   </a>
 
