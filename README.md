@@ -26,7 +26,7 @@ Where ideas meet execution — one commit at a time.
 
 
 ---
-<!-- <h1>💫 About Me:</h1>
+<h1>💫 About Me:</h1>
 
 <p align="right">
   <img align="right" alt="Coding" width="330" height="220" src="https://cdn.dribbble.com/userupload/20374734/file/original-e00993b26b380ac1ffb2990128fbe1ed.gif">
@@ -35,9 +35,9 @@ Where ideas meet execution — one commit at a time.
 <h3>- 🌐 Cruising the MERN highway with Mongo tunes, Express lanes, and React vibes! 🚗💨</h3>
 <h3>- 🛠️ Turning coffee into full-stack features—Node powers, activate! ☕⚙️</h3>
 <h3>- 📬 Ping me anytime at <a href="mailto:rajghosh786@gmail.com" target="_blank">rajghosh786@gmail.com </a>— let's build something awesome! 📩</h3>
-<h3>- 🤯 Fun fact: I debug better with snacks. 🍕💡</h3> -->
+<h3>- 🤯 Fun fact: I debug better with snacks. 🍕💡</h3>
 
-<div>
+<!-- <div>
 
   <h1 style="border-bottom: 1px solid; padding-bottom: 4px; margin-bottom: 15px; display: inline-block;">
     💫 About Me:
@@ -57,7 +57,7 @@ Where ideas meet execution — one commit at a time.
     </tr>
   </table>
 
-</div>
+</div> -->
 
 
 
