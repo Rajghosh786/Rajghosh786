@@ -2,9 +2,15 @@
 <h1 align="center">👋 Hey there, fellow code adventurer! 🚀 I'm Raj Ghosh 😎</h1>
 
 <h3 align="center">
-🚀 Welcome to my quirky corner of the coding universe! 🌌 <br>
-I'm just a curious human with a passion for turning caffeine into code and pixels into magic. 🔥
+💡 Think in logic. <br>
+🎨 Build with intent. <br>
+🧩 Break, learn, repeat.
 </h3>
+
+<p align="center">
+Where ideas meet execution — one commit at a time.
+</p>
+
 
 <p align="right">
   <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -22,15 +28,15 @@ I'm just a curious human with a passion for turning caffeine into code and pixel
 
 ## 🌐 Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/raj-ghosh-/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <!-- <a href="https://www.facebook.com/ankith.mandal.9" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a> -->
-  <!-- <a href="https://www.instagram.com/ankit_mandal_9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a> -->
+      <a href="https://www.linkedin.com/in/raj-ghosh-/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
+      <a href="mailto:your.email@gmail.com" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
+      </a>
+      <a href="https://raj-ghosh-porfolio.netlify.app/" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" height="30" width="40" />
+      </a>
 </p>
 
 ---
