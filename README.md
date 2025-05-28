@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif) -->
 <!-- ![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE2c3VxNG43dm52aHRwcHUycGhkZWJ5aHJwZXBqa3Rqb3M0MmU1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif) -->
 <p align="center">
-  <img src="./assets/vibecoding450x800.gif" alt="MasterHead" />
+  <img src="./assets/vibecoding450x800.gif" alt="MasterHead" style="border-radius: 10px;"/>
 </p>
 
 <!-- <h1 align="center">👋 Hey there, fellow code adventurer! 🚀 I'm Raj Ghosh 😎</h1> -->
@@ -23,17 +23,44 @@ Where ideas meet execution — one commit at a time.
   <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 </p> -->
 
-<p align="right">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/20374734/file/original-e00993b26b380ac1ffb2990128fbe1ed.gif">
-</p>
+
 
 ---
-<h1>💫 About Me:</h1>
+<!-- <h1>💫 About Me:</h1>
+
+<p align="right">
+  <img align="right" alt="Coding" width="330" height="220" src="https://cdn.dribbble.com/userupload/20374734/file/original-e00993b26b380ac1ffb2990128fbe1ed.gif">
+</p>
 
 <h3>- 🌐 Cruising the MERN highway with Mongo tunes, Express lanes, and React vibes! 🚗💨</h3>
 <h3>- 🛠️ Turning coffee into full-stack features—Node powers, activate! ☕⚙️</h3>
 <h3>- 📬 Ping me anytime at <a href="mailto:rajghosh786@gmail.com" target="_blank">rajghosh786@gmail.com </a>— let's build something awesome! 📩</h3>
-<h3>- 🤯 Fun fact: I debug better with snacks. 🍕💡</h3>
+<h3>- 🤯 Fun fact: I debug better with snacks. 🍕💡</h3> -->
+
+<div>
+
+  <h1 style="border-bottom: 1px solid; padding-bottom: 4px; margin-bottom: 15px; display: inline-block;">
+    💫 About Me:
+  </h1>
+
+  <table>
+    <tr>
+      <td style="vertical-align: top; padding-right: 20px; max-width: 60%;">
+      <h3>- 🌐 Cruising the MERN highway with Mongo tunes, Express lanes, and React vibes! 🚗💨</h3>
+      <h3>- 🛠️ Turning coffee into full-stack features—Node powers, activate! ☕⚙️</h3>
+      <h3>- 📬 Ping me anytime at <a href="mailto:rajghosh786@gmail.com" target="_blank">rajghosh786@gmail.com </a>— let's build something awesome! 📩</h3>
+      <h3>- 🤯 Fun fact: I debug better with snacks. 🍕💡</h3> 
+      </td>
+      <td style="vertical-align: top;">
+        <img alt="Coding" width="450" height="260" src="https://cdn.dribbble.com/userupload/20374734/file/original-e00993b26b380ac1ffb2990128fbe1ed.gif" style="border-radius: 10px;" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+
+
 
 
 
