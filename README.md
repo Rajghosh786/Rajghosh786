@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">👋 Hey there, fellow code adventurer! 🚀 I'm Ankith Mandal 😎</h1>
+<h1 align="center">👋 Hey there, fellow code adventurer! 🚀 I'm Raj Ghosh 😎</h1>
 
 <h3 align="center">
 🚀 Welcome to my quirky corner of the coding universe! 🌌 <br>
@@ -13,24 +13,24 @@ I'm just a curious human with a passion for turning caffeine into code and pixel
 ---
 
 **💫 About Me:**
-- 🌈 Riding the **Flutter** wave with Dart and a dash of whimsy! 🎨  
-- 🚀 Cheers to endless loops and bug-free adventures! 🔥  
-- 📫 Reach me at **ankithmandal36@gmail.com**  
-- ⚡ Fun fact: Merge conflicts build character! 😅  
+- 🌐 Cruising the MERN highway with Mongo tunes, Express lanes, and React vibes! 🚗💨  
+- 🛠️ Turning coffee into full-stack features—Node powers, activate! ☕⚙️
+- 📬 Ping me anytime at **rajghosh786@gmail.com**— let's build something awesome! 📩
+- 🤯 Fun fact: I debug better with snacks. 🍕💡 
 
 ---
 
 ## 🌐 Connect with me:
 <p align="center">
-  <a href="www.linkedin.com/in/ankith-mandal-030296276" target="_blank">
+  <a href="https://www.linkedin.com/in/raj-ghosh-/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/ankith.mandal.9" target="_blank">
+  <!-- <a href="https://www.facebook.com/ankith.mandal.9" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/ankit_mandal_9/" target="_blank">
+  </a> -->
+  <!-- <a href="https://www.instagram.com/ankit_mandal_9/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -79,18 +79,18 @@ I'm just a curious human with a passion for turning caffeine into code and pixel
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankithmandal09&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Ankith's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajghosh786&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Ankith's GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankithmandal09&theme=radical&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajghosh786&theme=radical&hide_border=false" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankithmandal09&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajghosh786&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankithmandal09&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajghosh786&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </p>
 
 ---
@@ -104,13 +104,13 @@ I'm just a curious human with a passion for turning caffeine into code and pixel
 
 ### 🔝 Top Contributed Repo:
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ankithmandal09&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Rajghosh786&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p>
 
 ---
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ankithmandal09&icon=0&color=0" alt="Profile Views">
+    <img src="https://visitcount.itsvg.in/api?id=Rajghosh786&icon=0&color=0" alt="Profile Views">
   </a>
 </p>
