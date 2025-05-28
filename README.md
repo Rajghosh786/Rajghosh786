@@ -2,7 +2,10 @@
 <!-- ![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE2c3VxNG43dm52aHRwcHUycGhkZWJ5aHJwZXBqa3Rqb3M0MmU1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif) -->
 ![MasterHead](./assets/vibecoding450x800.gif)
 
-<h1 align="center">👋 Hey there, fellow code adventurer! 🚀 I'm Raj Ghosh 😎</h1>
+<!-- <h1 align="center">👋 Hey there, fellow code adventurer! 🚀 I'm Raj Ghosh 😎</h1> -->
+<h1 align="center">🚀 Welcome, Code Explorer! I'm <span style="color:#f39c12;">Raj Ghosh</span> 👨‍💻</h1>
+<h3 align="center">Crafting digital magic, one line at a time ✨</h3>
+
 
 <h3 align="center">
 💡 Think in logic. <br>
@@ -23,7 +26,7 @@ Where ideas meet execution — one commit at a time.
 </p>
 
 ---
-<div style="font-size:18px">
+<div style="font-size:36px">
 **💫 About Me:**
 
 - 🌐 Cruising the MERN highway with Mongo tunes, Express lanes, and React vibes! 🚗💨
@@ -46,21 +49,23 @@ Where ideas meet execution — one commit at a time.
         <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" height="30" width="40" />
       </a>
 </p> -->
-<p align="center" style="font-size: 60px;">
+
+<p align="center">
 
   <a href="https://www.linkedin.com/in/raj-ghosh-/" target="_blank" title="LinkedIn" style="text-decoration: none; margin: 0 30px;">
-    🔗
+    <span style="font-size: 60px;">🔗</span>
   </a>
 
   <a href="https://raj-ghosh-porfolio.netlify.app/" target="_blank" title="Portfolio" style="text-decoration: none; margin: 0 30px;">
-    💼
+    <span style="font-size: 60px;">💼</span>
   </a>
 
   <a href="mailto:rajghosh786@gmail.com" target="_blank" title="Email" style="text-decoration: none; margin: 0 30px;">
-    📧
+    <span style="font-size: 60px;">📧</span>
   </a>
 
 </p>
+
 ---
 
 ## 💻 Languages and Tools:
