@@ -1,10 +1,12 @@
 <!-- ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif) -->
 <!-- ![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE2c3VxNG43dm52aHRwcHUycGhkZWJ5aHJwZXBqa3Rqb3M0MmU1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif) -->
-![MasterHead](./assets/vibecoding450x800.gif)
+<p align="center">
+  <img src="./assets/vibecoding450x800.gif" alt="MasterHead" />
+</p>
 
 <!-- <h1 align="center">👋 Hey there, fellow code adventurer! 🚀 I'm Raj Ghosh 😎</h1> -->
-<h1 align="center">🚀 Welcome, Code Explorer! I'm <span style="color:#f39c12;">Raj Ghosh</span> 👨‍💻</h1>
-<h3 align="center">Crafting digital magic, one line at a time ✨</h3>
+ 
+<h1 align="center">🚀 Welcome, Code Explorer! I'm <span style="color:#f39c12;">Raj Ghosh</span>  👨‍💻</br>Crafting digital magic, one line at a time ✨</h1>
 
 
 <h3 align="center">
@@ -26,7 +28,7 @@ Where ideas meet execution — one commit at a time.
 </p>
 
 ---
-<div style="font-size:36px">
+<div style="font-size:18px">
 **💫 About Me:**
 
 - 🌐 Cruising the MERN highway with Mongo tunes, Express lanes, and React vibes! 🚗💨
