@@ -28,14 +28,13 @@ Where ideas meet execution — one commit at a time.
 </p>
 
 ---
-<div style="font-size:18px">
-**💫 About Me:**
+<h1>**💫 About Me:**</h1>
 
-- 🌐 Cruising the MERN highway with Mongo tunes, Express lanes, and React vibes! 🚗💨
-- 🛠️ Turning coffee into full-stack features—Node powers, activate! ☕⚙️
-- 📬 Ping me anytime at **rajghosh786@gmail.com**— let's build something awesome! 📩
-- 🤯 Fun fact: I debug better with snacks. 🍕💡
-</div>
+<h3>- 🌐 Cruising the MERN highway with Mongo tunes, Express lanes, and React vibes! 🚗💨</h3>
+<h3>- 🛠️ Turning coffee into full-stack features—Node powers, activate! ☕⚙️</h3>
+<h3>- 📬 Ping me anytime at **rajghosh786@gmail.com**— let's build something awesome! 📩</h3>
+<h3>- 🤯 Fun fact: I debug better with snacks. 🍕💡</h3>
+
 ---
 
 ## 🌐 Connect with me:
@@ -52,7 +51,7 @@ Where ideas meet execution — one commit at a time.
       </a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
 
   <a href="https://www.linkedin.com/in/raj-ghosh-/" target="_blank" title="LinkedIn" style="text-decoration: none; margin: 0 30px;">
     <span style="font-size: 60px;">🔗</span>
@@ -66,7 +65,20 @@ Where ideas meet execution — one commit at a time.
     <span style="font-size: 60px;">📧</span>
   </a>
 
+</p> -->
+
+<p align="center">
+  <a href="https://linkedin.com/in/-" target="_blank" title="LinkedIn" style="margin: 0 25px;">
+    <img src="./assets/linkedin-icon.svg" width="40" />
+  </a>
+  <a href="https://-porfolio.netlify.app/" target="_blank" title="Portfolio" style="margin: 0 25px;">
+    <img src="./assets/portfolio-icon.svg" width="40" />
+  </a>
+  <a href="mailto:@gmail.com" target="_blank" title="Email" style="margin: 0 25px;">
+    <img src="./assets/email-icon.svg" width="40" />
+  </a>
 </p>
+
 
 ---
 
